@@ -17,3 +17,20 @@ This organization hosts my academic projects from the University of Warsaw.
     
 ### Summer Semester (Sem. 2)
 
+## Year 3 (2024/2025)
+
+### Winter Semester (Sem. 1)
+* **Object-oriented programminge (`PO`)**
+
+* **Databases (`BD`)**
+   * [Labs & Projects](https://github.com/Kacper-Chorzela-MISMAP/2024.1-BD)
+
+* **Introductory programming  (`WPI`)**
+   * [Labs & Projects](https://github.com/Kacper-Chorzela-MISMAP/2024.1-WPI)
+
+* **Python programming course (`PYT`)**
+   * [Labs & Homeworks](https://github.com/Kacper-Chorzela-MISMAP/2024.1-PYT)
+   * [Project](https://github.com/Kacper-Chorzela-MISMAP/2024.1-PYT-Project-Drugbank-Analysis)
+    
+### Summer Semester (Sem. 2)
+
