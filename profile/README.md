@@ -20,7 +20,6 @@ This organization hosts my academic projects from the University of Warsaw.
 ## Year 3 (2024/2025)
 
 ### Winter Semester (Sem. 1)
-* **Object-oriented programminge (`PO`)**
 
 * **Databases (`BD`)**
    * [Labs & Projects](https://github.com/Kacper-Chorzela-MISMAP/2024.1-BD)
@@ -34,3 +33,4 @@ This organization hosts my academic projects from the University of Warsaw.
     
 ### Summer Semester (Sem. 2)
 
+* **Object-oriented programminge (`PO`)**
